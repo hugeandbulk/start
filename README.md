@@ -8,3 +8,7 @@ We both are agreed to work on...
  - 4.0 — Sequømics, Inc.
 
 Yeah, 14th July, 2023.
+
+¶ Zareen % : 4.8
+
+¶ Prabhat % : 95.2
