@@ -1,5 +1,5 @@
 "Head", "Expense", "Company", "Narration", "Amount", "Account"
-"Self", "Self", "Self", "Self", "Self", "Self"
+"Self", "Self", "Initiator", "Self", "Self", "Self"
 "", "", "", "", "", ""
 "", "", "", "", "", ""
 "", "", "", "", "", ""
