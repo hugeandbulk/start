@@ -1,1 +1,5 @@
-"Projects", "Budget", "Time", "Company", "Priority"
+"Project", "Budget", "Time", "Company", "Priority", "Type"
+"Huge and Bulk", "Budget", "Time", "Company", "Priority", "Software"
+"Departmental Store", "Budget", "Time", "Company", "Priority", "Software"
+"HairY", "Budget", "Time", "Company", "Priority", "Software"
+"ePay", "Budget", "Time", "Company", "Priority", "Software"
