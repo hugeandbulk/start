@@ -10,6 +10,7 @@ We both are agreed to work on...
 Yeah, 14th July, 2023.
 
 ¶ Zareen % : 4.8
+
 ¶ Prabhat % : 95.2
 
 § Both are investors, in all companies.
