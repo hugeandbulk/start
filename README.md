@@ -6,7 +6,7 @@ We both are agreed to work on...
  - 2.0 — HairY & Co.
  - 3.0 — ePay
  - 4.0 — Sequømics, Inc.
- - 5.0 — Infinity, Inc.
+ - 5.0 — Infinity, Inc. (∞, Inc.) 
 
 Yeah, 14th July, 2023.
 
