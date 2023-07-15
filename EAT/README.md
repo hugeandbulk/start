@@ -17,3 +17,14 @@ General Section / Compulsory
 12. Technology
 13. Computer science
 14. General knowledge
+
+Preliminary / Compulsory
+
+1. English
+2. Hindi
+3. Essay
+4. Physics
+5. Chemistry
+6. Mathematics
+7. Biology
+8. General Awareness
