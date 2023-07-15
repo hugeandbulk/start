@@ -9,4 +9,12 @@ Features:
 
 Includes a feature for resource management, outlining all the scheduled and planned resources and calculating the cost of their use. This helps to avoid over-assignments and possible conflicts for lacking resources.
 
- — 
+ - Resource management
+ - Time-tracking
+ - Teamwork
+ - Collaboration
+ - Project Planning
+ - Dashboard
+ - Budget
+ - Scheduling
+ - Real-time computing
