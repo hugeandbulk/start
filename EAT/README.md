@@ -64,3 +64,5 @@ Boarding and Signing
 Legal Terms
 
 Welcome ¶
+
+¶ Fee : 2,500 /- INR
