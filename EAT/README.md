@@ -1,5 +1,7 @@
 ## Entry Aptitude Test
 
+§ A. 
+
 1. About you - 10 Questions
 2. About your's - 5 Questions
 
@@ -44,3 +46,21 @@ Communication skills / Compulsory
 2. Email
 3. Verbal
 4. Any
+
+§ B. 
+
+Practical Exam
+
+Psychological Exam
+
+§ C. 
+
+Interview
+
+§ D. 
+
+Boarding and Signing
+
+Legal Terms
+
+Welcome ¶
