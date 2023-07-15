@@ -7,4 +7,20 @@ Leptin is a hormone that tells the brain when enough fat is stored, preventing o
 
 What hormone produces leptin?
 
-Leptin is a peptide hormone synthesized by white adipose tissue. The leptin gene (LEP or ob) is on chromosome 7q31. 3. [2] The mature protein is comprised of 146 amino acids and produced through mRNA-directed protein synthesis.
+Leptin is a peptide hormone synthesized by white adipose tissue. The leptin gene (LEP or ob) is on chromosome 7q31.3.The mature protein is comprised of 146 amino acids and produced through mRNA-directed protein synthesis.
+
+What is another name for leptin?
+
+Leptin sends a signal to your brain that helps you feel full and less interested in food. You may hear it called a satiety hormone. (Satiety means hunger feels satisfied).
+
+Is leptin full or hungry?
+
+Leptin decreases your appetite, while ghrelin increases it. Ghrelin is made in your stomach and signals your brain when you're hungry. Your fat cells produce leptin. Leptin lets your brain know when you have enough energy stored and feel “full.”
+
+Is high leptin good or bad?
+
+In some studies, chronically-elevated leptin levels have been associated with obesity, overeating, and inflammation-related diseases, including hypertension, metabolic syndrome, and heart disease. However, no cause-and-effect has been established.
+
+What activates leptin?
+
+Insulin is an important factor in the stimulation of leptin secretion. Whether its in vivo activity can be considered acute is controversial. However, insulin regulates the long-term leptin secretion of adipose cells by a transcriptional or posttranscriptional mechanism.
