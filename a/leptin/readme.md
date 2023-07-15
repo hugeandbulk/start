@@ -5,6 +5,10 @@ What is the function of leptin?
 
 Leptin helps inhibit (prevent) hunger and regulate energy balance so that your body doesn't trigger a hunger response when it doesn't need energy (calories). Leptin mainly acts on your brainstem and hypothalamus to regulate hunger and energy balance, though you have leptin receptors in other areas of your body.
 
+What is leptin secreted by?
+
+Leptin is a hormone secreted by adipocytes that plays an important role in food intake, energy expenditure, reproduction, glucose metabolism, and fat metabolism.
+
 Is leptin a fat burning hormone?
 
 Leptin is a hormone that tells the brain when enough fat is stored, preventing overeating and aiding in healthy calorie burning. Leptin resistance can cause the brain to miss this signal, which may contribute to obesity.
