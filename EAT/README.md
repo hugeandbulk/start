@@ -28,3 +28,18 @@ Preliminary / Compulsory
 6. Mathematics
 7. Biology
 8. General Awareness
+
+Mains / Compulsory
+
+1. Mathematics
+2. Statistics
+3. Management
+4. Verbal Reasoning
+5. Data Interpretation
+6. Computer science
+
+Communication skills / Compulsory
+1. Letter
+2. Email
+3. Verbal
+4. Any
