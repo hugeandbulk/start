@@ -28,6 +28,7 @@ Preliminary / Compulsory
 6. Mathematics
 7. Biology
 8. General Awareness
+9. Numerical Analysis
 
 Mains / Compulsory
 
