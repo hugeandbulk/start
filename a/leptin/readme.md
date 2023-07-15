@@ -1,6 +1,10 @@
 ### Leptin
 Leptin is a hormone derived from adipose tissue and the small intestine, mainly in enterocytes; it helps regulate the energy balance by suppressing hunger, resulting in decreased fat mass in adipocytes. Leptin is a cytokine of the long-chain helical cytokine family, containing interleukin-6, granulocyte colony-stimulating factor and growth hormone. It is coded for by the obese (OB or LEP) gene which is on chromosome 7q31. 3, and which comprises three exons and two introns.
 
+What is the function of leptin?
+
+Leptin helps inhibit (prevent) hunger and regulate energy balance so that your body doesn't trigger a hunger response when it doesn't need energy (calories). Leptin mainly acts on your brainstem and hypothalamus to regulate hunger and energy balance, though you have leptin receptors in other areas of your body.
+
 Is leptin a fat burning hormone?
 
 Leptin is a hormone that tells the brain when enough fat is stored, preventing overeating and aiding in healthy calorie burning. Leptin resistance can cause the brain to miss this signal, which may contribute to obesity.
