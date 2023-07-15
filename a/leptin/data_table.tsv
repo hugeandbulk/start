@@ -1,0 +1,4 @@
+gene_id	gene_symbol	description	scientific_name	common_name	tax_id	genomic_range	orientation	location	gene_type	transcript_accession	transcript_name	transcript_length	transcript_cds_coords	protein_accession	isoform_name	protein_length	protein_name
+3952	LEP	leptin	Homo sapiens	human	9606	NC_000007.14:128241278-128257629;NC_060931.1:129552743-129569093	+;+	chr 7	PROTEIN_CODING	NM_000230.3		3427	NM_000230.3:58-561	NP_000221.1		167	leptin precursor
+3952	LEP	leptin	Homo sapiens	human	9606	NC_000007.14:128241278-128257629;NC_060931.1:129552743-129569093	+;+	chr 7	PROTEIN_CODING	XM_005250340.6	transcript variant X1	3424	XM_005250340.6:58-558	XP_005250397.1	isoform X1	166	leptin
+3952	LEP	leptin	Homo sapiens	human	9606	NC_000007.14:128241278-128257629;NC_060931.1:129552743-129569093	+;+	chr 7	PROTEIN_CODING	XM_054358206.1	transcript variant X1	3424	XM_054358206.1:58-558	XP_054214181.1	isoform X1	166	leptin
