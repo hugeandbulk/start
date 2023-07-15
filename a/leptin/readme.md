@@ -1,5 +1,5 @@
 ### Leptin
-Leptin is a hormone derived from adipose tissue and the small intestine, mainly in enterocytes; it helps regulate the energy balance by suppressing hunger, resulting in decreased fat mass in adipocytes.
+Leptin is a hormone derived from adipose tissue and the small intestine, mainly in enterocytes; it helps regulate the energy balance by suppressing hunger, resulting in decreased fat mass in adipocytes. Leptin is a cytokine of the long-chain helical cytokine family, containing interleukin-6, granulocyte colony-stimulating factor and growth hormone. It is coded for by the obese (OB or LEP) gene which is on chromosome 7q31. 3, and which comprises three exons and two introns.
 
 Is leptin a fat burning hormone?
 
