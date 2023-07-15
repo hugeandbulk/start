@@ -5,4 +5,4 @@ Leptin decreases your appetite, while ghrelin increases it. Ghrelin is made in y
 
 Ghrelin is a hormone that sends a signal to your brain to feel hungry. It plays a key role in regulating calorie intake and body fat levels.
 
-
+Ghrelin plays a central role in controlling major biological processes. As for other G protein-coupled receptor (GPCR) peptide agonists, the structure and dynamics of ghrelin bound to its receptor remain obscure.
