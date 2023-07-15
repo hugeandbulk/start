@@ -11,4 +11,4 @@ the act of putting money in a bank, business, property, etc.; the amount of mone
 
 What are investment documents?
 
-Investment Document means any agreement, subscription, assignment or other document evidencing in physical form an investment of the Client, or providing for the ownership by the Client, in each case that is acceptable to the Custodian.
+Investment Document means any agreement, subscription, assignment or other document evidencing in physical form an investment of the Client, or providing for the ownership by the Client, in each case that is acceptable to the Custodian (अभिरक्षक).
