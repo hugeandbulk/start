@@ -28,3 +28,31 @@ Insulin is an important factor in the stimulation of leptin secretion. Whether i
 What is the gene coding for leptin?
 
 The LEP gene provides instructions for making a hormone called leptin, which is involved in the regulation of body weight. Normally, the body's fat cells release leptin in proportion to their size. As fat accumulates in cells, more leptin is produced.
+
+What is the pathway of the leptin hormone?
+
+Leptin activates signal transducer and activator of transcription (STAT) 3 when it binds to the long isoform of leptin receptor (LepRb) in the arcuate nucleus, ventromedial hypothalamus, and other hypothalamic neurons. Activated STAT3 stimulates pomc expression and inhibits agrp expression in the hypothalamus.
+
+What is the leptin coding gene?
+
+The LEP gene provides instructions for making a hormone called leptin, which is involved in the regulation of body weight. Normally, the body's fat cells release leptin in proportion to their size. As fat accumulates in cells, more leptin is produced.
+
+What is leptin chemical formula?
+
+Leptin (93-105) (human) | C64H110N20O23
+
+What is leptin mechanism of action?
+
+The adipose tissue-derived hormone leptin acts via its receptor (LRb) in the brain to regulate energy balance and neuroendocrine function. LRb signaling via STAT3 and a number of other pathways is required for the totality of leptin action.
+
+Who discovered leptin?
+
+Douglas Coleman and Jeffery Friedman shared the 2010 Albert Lasker Basic Medical Research Award for their discovery of a fat cell-produced hormone, leptin (Greek leptos means thin). The discovery was a landmark event in modern physiology.
+
+What inhibits leptin?
+
+Insulin-stimulated leptin secretion could also be inhibited by a series of agents increasing intracellular cAMP levels, such as lipolytic hormones (ACTH and thyrotropin-stimulating hormone), various nonhydrolyzable cAMP analogs, pertussis toxin, forskolin, methylxanthines (caffeine, theophylline, IBMX). 
+
+Is leptin an insulin?
+
+Leptin and insulin share common effects in the control of food intake and energy metabolism. In the blood glucose homeostasis, both play important roles. Leptin and insulin directly regulate each other : 0 leptin inhibits insulin; insulin stimulates leptin synthesis and secretion.
