@@ -24,3 +24,7 @@ In some studies, chronically-elevated leptin levels have been associated with ob
 What activates leptin?
 
 Insulin is an important factor in the stimulation of leptin secretion. Whether its in vivo activity can be considered acute is controversial. However, insulin regulates the long-term leptin secretion of adipose cells by a transcriptional or posttranscriptional mechanism.
+
+What is the gene coding for leptin?
+
+The LEP gene provides instructions for making a hormone called leptin, which is involved in the regulation of body weight. Normally, the body's fat cells release leptin in proportion to their size. As fat accumulates in cells, more leptin is produced.
