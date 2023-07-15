@@ -3,6 +3,8 @@ Ghrelin is a hormone produced by enteroendocrine cells of the gastrointestinal t
 
 _Ghrelin is a 28-amino acid peptide existing in two major forms: n-octanoyl-modified ghrelin, which possesses an n-octanoyl modification on serine-3 and des-acyl ghrelin. Fatty acid modification of ghrelin is essential for ghrelin-induced growth hormone release from the pituitary and appetite stimulation_.
 
+Ghrelin, the “hunger hormone,” plays a key role because, in addition to its several other important functions, it can signal to your brain that it’s time to eat.
+
 Leptin decreases your appetite, while ghrelin increases it. Ghrelin is made in your stomach and signals your brain when you're hungry. Your fat cells produce leptin. Leptin lets your brain know when you have enough energy stored and feel “full.”
 
 Ghrelin is a hormone that sends a signal to your brain to feel hungry. It plays a key role in regulating calorie intake and body fat levels.
