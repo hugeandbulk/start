@@ -18,3 +18,9 @@ Includes a feature for resource management, outlining all the scheduled and plan
  - Budget
  - Scheduling
  - Real-time computing
+ - Task management
+ - Project scheduling
+ - Communication
+ - Reporting
+
+Project management process generally includes four phases: initiating, planning, executing, and closing. Some may also include a fifth “monitoring and controlling” phase between the executing and closing stages.
