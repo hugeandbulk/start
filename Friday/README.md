@@ -1,0 +1,2 @@
+## Friday
+Scrum and Kanban
