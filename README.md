@@ -15,3 +15,8 @@ Yeah, 14th July, 2023.
 ¶ Prabhat % : 95.2
 
 § Both are investors, in all companies.
+
+§ investments as on, 2023
+- seed stage
+- early stage
+- growth stage
