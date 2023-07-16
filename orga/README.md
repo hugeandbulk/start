@@ -6,4 +6,4 @@
 Coined philosophy —by— Prabhat Kumar.
 
 -----------
-0) -orga- an mathematical electronics.
+0) -orga- a mathematical electronics.
