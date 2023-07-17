@@ -21,3 +21,8 @@ From Spanish personal name Tello, derived from the Latin Tellūs (“Earth”).
 Program
 
 fritters
+
+Hardware's email 
+
+0.0.0@asia.asia
+
