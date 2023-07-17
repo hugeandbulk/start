@@ -12,3 +12,8 @@ Concept by Prabhat Kumar. A world project, a human word.
 ¶>> greatly saying — world.world/
 
 Finally. A promise word.
+
+§ 
+What does Tello mean?
+
+From Spanish personal name Tello, derived from the Latin Tellūs (“Earth”).
