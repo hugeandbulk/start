@@ -22,7 +22,7 @@ Program
 
 fritters
 
-Hardware's email 
+Hardware's email (earth mail) 
 
 0.0.0@asia.asia
 
