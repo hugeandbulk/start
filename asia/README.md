@@ -26,6 +26,12 @@ Hardware's email
 
 0.0.0@asia.asia
 
-Prabhat — MML, Mathematics Markup Language 
+Prabhat — MML, Mathematics Markup Language
+
+§ Ada Power
+
+Work, n number of 
+
+Nomenclature of the system, earth.
 
 
