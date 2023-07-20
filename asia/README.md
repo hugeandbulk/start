@@ -37,4 +37,7 @@ Work, n number of
 
 Nomenclature of the system, earth.
 
-¶ sprint : 18041
+¶ sprint : 45h9
+
+Terminal and name of that. 
+
