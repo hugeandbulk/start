@@ -66,3 +66,4 @@ Legal Terms
 Welcome ¶
 
 ¶ Fee : 2,500 /- INR
+¶ Medical Test 📱: Compulsory 
