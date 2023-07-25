@@ -8,4 +8,11 @@ A school management system is a software application that is designed to streaml
 
 The goal of a school management system is to simplify these processes and make them more efficient, saving time and reducing errors.
 
-
+- Student Information
+- Teacher Information
+- Attendance Management
+- Online Assignments and Assessments
+- Report Card Generation
+- Fee Management System
+- Admission Management
+- Transport Management
