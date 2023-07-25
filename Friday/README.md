@@ -18,3 +18,5 @@ Kanban is a workflow management method that helps organizations manage and impro
 Kanban is a popular Lean workflow management method for defining, managing, and improving services that deliver knowledge work. It helps you visualize work, maximize efficiency, and improve continuously. Work is represented on Kanban boards, allowing you to optimize work delivery across multiple teams and handle even the most complex projects in a single environment.
 
 Use Kanban boards to visualize your entire project from start to finish. Track everything from sprint planning to feedback loops and launch dates—all in one workflow.
+
+https://kanbanize.com/
