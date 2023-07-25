@@ -25,3 +25,5 @@ Yeah, 14th July, 2023.
 - seed stage
 - early stage
 - growth stage
+
+ॐ ) श्राप ( ॐ
