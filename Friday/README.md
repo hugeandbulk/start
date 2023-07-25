@@ -10,5 +10,11 @@ Scrum helps people and teams deliver value incrementally in a collaborative way.
 
 Scrum is a process framework used to manage product development and other knowledge work.
 
+### Kanban
+Kanban is a popular framework used to implement agile and DevOps software development. It requires real-time communication of capacity and full transparency of work. Work items are represented visually on a kanban board, allowing team members to see the state of every piece of work at any time.
+
+Kanban is a workflow management method that helps organizations manage and improve work systems. Learn how to visualize work and improve efficiency with Kanban.
+
+Kanban is a popular Lean workflow management method for defining, managing, and improving services that deliver knowledge work. It helps you visualize work, maximize efficiency, and improve continuously. Work is represented on Kanban boards, allowing you to optimize work delivery across multiple teams and handle even the most complex projects in a single environment.
 
 Use Kanban boards to visualize your entire project from start to finish. Track everything from sprint planning to feedback loops and launch dates—all in one workflow.
