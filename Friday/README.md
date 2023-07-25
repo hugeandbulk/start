@@ -1,6 +1,12 @@
 ## <strike>F</strike>friday
 Scrum and Kanban
 
+(Why Friday is called Friday?
+
+Naming Friday
+
+The English name Friday is derived from Old English and means “day of Frigg,” the Norse goddess of fertility and love, who is often perceived as the same deity as Freya.)
+
 ### Scrum
 Scrum is a management framework that teams use to self-organize and work towards a common goal. It describes a set of meetings, tools, and roles for efficient project delivery. Much like a sports team practicing for a big match, Scrum practices allow teams to self-manage, learn from experience, and adapt to change.
 
