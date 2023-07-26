@@ -3,4 +3,6 @@ _You're vehicle_
 - auto
 - car
 - bike
-- any (pickup, truck, thela, rickshaw, horse, muel) 
+- any (pickup, truck, thela, rickshaw, horse, muel)
+
+* ride *
