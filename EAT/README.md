@@ -1,6 +1,6 @@
 ## Entry Aptitude Test
 
-§ A. 
+§ A. ॐ ) श्राप ( ॐ
 
 1. About you - 10 Questions
 2. About your's - 5 Questions
