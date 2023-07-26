@@ -1,4 +1,4 @@
-# $.Start ($) । ॐ
+# Start ($) । ॐ
 We both are agreed to work on...
 
  - 💯 0.0 — Let's start with the budget and flow, which is decided (by both of us).
@@ -19,7 +19,7 @@ Yeah, 14th July, 2023.
 
 ¶ Prabhat % : 99.99
 
-§ Both are investors, in all companies.
+§ Both are investors, in all companies. Update soon and thanks.
 
 § investments as on, 2023
 - seed stage
