@@ -3,4 +3,4 @@ _You're vehicle_
 - auto
 - car
 - bike
-- any
+- any (pickup, truck, thela, horse, muel) 
