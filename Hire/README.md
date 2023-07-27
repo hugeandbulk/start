@@ -6,3 +6,5 @@ _You're vehicle_
 - any (pickup, truck, thela, rickshaw, horse, muel)
 
 * ride *
+
+Uba motors 
