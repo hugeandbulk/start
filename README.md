@@ -31,4 +31,8 @@ Yeah, 28th July, 2023.
 - early stage
 - growth stage
 
+What is price formula?
+
+Here are the three most important basic retail price formulas: Retail Price = Cost of Goods + Markup. Markup = Retail Price – Cost of Goods. Cost of Goods = Retail Price – Markup.
+
 ॐ ) श्राप ( ॐ
