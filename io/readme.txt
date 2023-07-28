@@ -26,3 +26,4 @@ In addition to my design skills, I have a basic understanding of marketing and c
 13. https://we-are.mx/
 14. https://www.awwwards.com/
 15. https://twotwo.de/
+16. https://www.vakarenko-anastasia.com/
