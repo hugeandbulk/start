@@ -15,9 +15,9 @@ Yeah, 14th July, 2023.
 ¶ Prabhat % : 95.2
 
 -------------------
-¶ Zareen % : 0.00
+¶ Zareen % : 13.1
 
-¶ Prabhat % : 99.99
+¶ Prabhat % : 86.9
 
 § Both are investors, in all companies. Update soon and thanks.
 
