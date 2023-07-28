@@ -35,4 +35,6 @@ What is price formula?
 
 Here are the three most important basic retail price formulas: Retail Price = Cost of Goods + Markup. Markup = Retail Price – Cost of Goods. Cost of Goods = Retail Price – Markup.
 
+Markup (the amount added to the cost price of goods to cover overheads and profit.) an amount added to the cost price of an article to set the selling price.
+
 ॐ ) श्राप ( ॐ
