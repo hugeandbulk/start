@@ -9,3 +9,5 @@ https://www.smashingmagazine.com/2023/07/define-array-colors-css/
 6. https://gens.nl/en/spotlight
 7. https://www.robotoentertainment.com/
 8. https://www.powell-studio.com/
+9. https://pandapay.ca/
+10. https://locomotive.ca/en
