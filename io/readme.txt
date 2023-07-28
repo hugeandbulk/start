@@ -8,3 +8,4 @@ https://www.smashingmagazine.com/2023/07/define-array-colors-css/
 5. https://gens.nl/en/
 6. https://gens.nl/en/spotlight
 7. https://www.robotoentertainment.com/
+8. https://www.powell-studio.com/
