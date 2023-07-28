@@ -7,4 +7,11 @@ _You're vehicle_
 
 * ride *
 
+Copyright : Prabhat Kumar. 2022 — 2023.
+
+Yeah (§) :
+
+Device : Cell Phone / Mobile Phone
+O/S :📱: Android bary and iOS bary
+
 Uba motors 
