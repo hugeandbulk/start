@@ -1,5 +1,15 @@
 https://codepen.io/
+
 https://www.smashingmagazine.com/2023/07/define-array-colors-css/
+
+About
+
+In my work I follow the principle of "minimum unnecessary, maximum meaning", striving to create designs that are clear, concise, and effective in achieving their intended purpose.
+
+
+For the past three years, design has been my passion, and I've had the privilege of creating websites for clients across a range of fields, including events, PR agencies, photography, education, property agencies, architectural studios, and more. But I'm always eager to take on new challenges and discover new industries.
+
+In addition to my design skills, I have a basic understanding of marketing and copywriting, which allows me to create websites that are not only aesthetically pleasing but also user-friendly and profitable for businesses.
 
 1. https://www.neundex.com/
 2. https://obys.agency/
