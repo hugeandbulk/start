@@ -1,7 +1,7 @@
 ## abair
 — it turns written words into speech. (The Irish word "abair" means "say".)
 
-» is a speech synthesiser. — //.
+» is a speech synthesiser(संश्लेषण). — //.
 
 » is to address culture.
 
