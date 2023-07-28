@@ -7,3 +7,4 @@ https://www.smashingmagazine.com/2023/07/define-array-colors-css/
 4. https://studio.playgoals.com/
 5. https://gens.nl/en/
 6. https://gens.nl/en/spotlight
+7. https://www.robotoentertainment.com/
