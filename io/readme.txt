@@ -29,7 +29,8 @@ In addition to my design skills, I have a basic understanding of marketing and c
 16. https://www.vakarenko-anastasia.com/
 17. https://www.freefaces.gallery/
 18. https://www.therawmaterials.com/
-
+19. https://zajno.com/
+20. https://motion.zajno.com/
 
 https://www.freefaces.gallery/
 —————
