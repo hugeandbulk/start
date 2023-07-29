@@ -34,6 +34,7 @@ In addition to my design skills, I have a basic understanding of marketing and c
 21. https://oxem.ru/
 22. https://learntype.eu/
 23. https://paullapkin.design/
+24. https://www.stabondar.com/
 
 https://www.freefaces.gallery/
 —————
