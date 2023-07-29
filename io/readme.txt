@@ -33,6 +33,7 @@ In addition to my design skills, I have a basic understanding of marketing and c
 20. https://motion.zajno.com/
 21. https://oxem.ru/
 22. https://learntype.eu/
+23. https://paullapkin.design/
 
 https://www.freefaces.gallery/
 —————
