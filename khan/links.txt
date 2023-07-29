@@ -1,0 +1,1 @@
+https://charactercounter.com/count-characters-in-javascript#:~:text=Count%20characters%20in%20JavaScript%20using,and%20other%20non%2Dvisible%20characters.
