@@ -11,7 +11,7 @@ Web Presence | budgeted |
 — world is mine
 — fan
 — hobby
-— hubby
+— hubby (*)
 — passion
 — age, become
 — earnings
@@ -27,7 +27,7 @@ Web Presence | budgeted |
 — bye (signature)
 _________________
 made, in India
-— by my hubby.
+— by my hubby (*).
 -----------------
 _____________==__
 
