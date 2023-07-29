@@ -31,6 +31,7 @@ In addition to my design skills, I have a basic understanding of marketing and c
 18. https://www.therawmaterials.com/
 19. https://zajno.com/
 20. https://motion.zajno.com/
+21. https://oxem.ru/
 
 https://www.freefaces.gallery/
 —————
