@@ -11,7 +11,7 @@ aesthetic — colors, feel (newspaper), copper, applause, about h'mmm. Please le
 
 ##
 —-————————-—
-— SCSS framework
+— SCSS framework — {bold}, named.
 — javascript
 — build system
 — git/github
