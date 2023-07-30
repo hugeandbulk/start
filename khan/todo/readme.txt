@@ -10,7 +10,7 @@
 — SCSS framework
 — javascript
 — build system
-— git
+— git/github
 — shell script
 
 ##
