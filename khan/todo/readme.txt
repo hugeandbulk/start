@@ -23,7 +23,7 @@ aesthetic — colors, feel (newspaper), copper, applause, about h'mmm. Please le
 
 )):
 ———
-Flowchart Maker and Online Diagram Software, draw.io
+Diagram Software, draw.io
 
 As on 30th July, 2023
 LANG: EN
