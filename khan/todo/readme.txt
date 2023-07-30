@@ -29,7 +29,11 @@ As on 30th July, 2023
 LANG: EN
 —-————————-—
 Assigned, Today.
+—-————————-—
+Assigned, agrred, नमस्ते 
+—-————————-—
 
+Reading
 ##
 https://medium.com/@salem_ghoweri/frontend-architecture-for-scalable-design-systems-72303bffde4b
 https://boltdesignsystem.com/
