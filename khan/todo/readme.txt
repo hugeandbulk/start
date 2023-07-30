@@ -18,5 +18,6 @@ LANG: EN
 Assigned, Today.
 
 ##
+https://medium.com/@salem_ghoweri/frontend-architecture-for-scalable-design-systems-72303bffde4b
 https://boltdesignsystem.com/
 https://github.com/bolt-design-system/bolt
