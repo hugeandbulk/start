@@ -7,6 +7,10 @@
 
 ##
 —-————————-—
+aesthetic — colors, feel (newspaper), copper, applause, about h'mmm. Please let me your inputs.
+
+##
+—-————————-—
 — SCSS framework
 — javascript
 — build system
