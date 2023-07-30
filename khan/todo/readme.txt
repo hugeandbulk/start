@@ -1,7 +1,7 @@
 ##
 — Contents
 — information architecture
-— design
+— design — (minimal design, minimalist design is about prioritizing the essential.)
 — UI/UX
 — mobile first, RWD
 
