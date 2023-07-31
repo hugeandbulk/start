@@ -5,7 +5,7 @@
   HairY
   —————
   U framework
-  Build System, grunt
+  Build System, grunt (seed)
   —————
   
 As on 31th July, 2023
