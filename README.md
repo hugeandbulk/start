@@ -30,7 +30,7 @@ Yeah, 28th July, 2023.
     Huge & Bulk / ePay / Hire / Sequømics
 
 § investments as on, 2023
-- seed stage
+- seed stage : 601 ₹
 - early stage
 - growth stage
 
