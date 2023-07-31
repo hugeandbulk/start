@@ -4,7 +4,7 @@
   Huge & Bulk
   HairY
   —————
-  U framework
+  U framework, Sass
   Build System, grunt (seed)
   —————
 As on 31th July, 2023
