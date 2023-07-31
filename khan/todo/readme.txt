@@ -46,3 +46,6 @@ https://www.syncfusion.com/blogs/post/what-is-a-front-end-design-system.aspx/amp
 https://stackoverflow.com/questions/29005285/how-to-use-almond-in-requirejs-to-generate-one-single-file
 
 https://www.freecodecamp.org/news/git-rebase-handbook/
+
+% What is a transpilation in programming?
+Transpilation is defined as source-to-source compilation. Tools have been written to do this and they are called transpilers. Transpilers take the source code and convert it into another language.
