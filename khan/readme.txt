@@ -8,8 +8,8 @@ Web Presence | budgeted |
 — creativity
 — work
 — acting
-— filmography
-— world is mine
+— filmography, interest of film class/type.
+— world is mine, abroad
 — fan
 — hobby
 — hubby (*)
