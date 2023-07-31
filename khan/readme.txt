@@ -42,3 +42,5 @@ As on 29th July, 2023
 LANG: EN | HN (संक्षेप)
 —-————————-—
 Assigned, Today.
+
+ಬೆಳಗ್ಗೆ (प्रभात)
