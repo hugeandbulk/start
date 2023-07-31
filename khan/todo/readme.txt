@@ -7,7 +7,8 @@
 
 ##
 —-————————-—
-aesthetic — colors, feel (newspaper), copper, applause, about h'mmm. Please let me your inputs.
+0) aesthetic — colors, feel (newspaper), copper, applause, about h'mmm. Please let me your inputs.
+1) Five, small to large photograph.
 
 ##
 —-————————-—
