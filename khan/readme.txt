@@ -34,7 +34,7 @@ _____________==__
 
 How many visitors (?)
 —-————————-—
-Analytics
+Analytics (Google)
 SEO, Google, Yahoo, Bing.
 OG
 —-————————-—
