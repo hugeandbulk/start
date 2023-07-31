@@ -36,7 +36,7 @@ How many visitors (?)
 —-————————-—
 Analytics (Google)
 SEO, Google, Yahoo, Bing.
-OG
+Open Graph
 —-————————-—
 As on 29th July, 2023
 LANG: EN | HN (संक्षेप)
