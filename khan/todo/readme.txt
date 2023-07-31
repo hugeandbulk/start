@@ -44,6 +44,12 @@ Assigned, agrred, नमस्ते
 
 Reading
 ##
+https://unix.stackexchange.com/questions/381230/how-can-i-remove-the-bom-from-a-utf-8-file
+
+https://gist.github.com/Xhamps/f589bf5ec73d602ad1b6
+
+https://gist.github.com/antic183/619f42b559b78028d1fe9e7ae8a1352d
+
 https://medium.com/@salem_ghoweri/frontend-architecture-for-scalable-design-systems-72303bffde4b
 
 https://boltdesignsystem.com/
