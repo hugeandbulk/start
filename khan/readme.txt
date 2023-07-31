@@ -35,7 +35,7 @@ _____________==__
 How many visitors (?)
 —-————————-—
 Analytics
-SEO
+SEO, Google, Yahoo, Bing.
 OG
 —-————————-—
 As on 29th July, 2023
