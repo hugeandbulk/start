@@ -1,5 +1,5 @@
 ##
-— Contents
+— Contents, in word format
 — information architecture
 — design — (minimal design, minimalist design is about prioritizing the essential.)
 — UI/UX
