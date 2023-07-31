@@ -11,6 +11,14 @@
 1) Five, small to large photograph; +1 for mobile look.
 
 ##
+  —————
+  HTML 5.1
+  CSS 3.0
+  JavaScript
+  SVG
+  Jpeg
+  —————
+  Sublime
 —-————————-—
 — SCSS framework — {bold}, named.
 — javascript — AMD
