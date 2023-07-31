@@ -14,7 +14,7 @@
 —-————————-—
 — SCSS framework — {bold}, named.
 — javascript — AMD
-— build system
+— build system, (gulp is a build tool in JavaScript built on node streams)
 — git/github
 — shell script
 
