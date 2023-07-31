@@ -18,7 +18,7 @@
   SVG
   Jpeg
   —————
-  Sublime
+  Sublime, https://www.sublimetext.com/
 —-————————-—
 — SCSS framework — {bold}, named.
 — javascript — AMD
