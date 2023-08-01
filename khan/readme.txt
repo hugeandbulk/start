@@ -31,7 +31,8 @@ made, in India
 — by my hubby (*).
 -----------------
 _____________==__
-
+#
+Functions:
 How many visitors (?)
 —-————————-—
 Analytics (Google)
