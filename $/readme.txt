@@ -13,5 +13,6 @@ It's works as per the name.
 
 Ooo
 a software for kids.
+// a ooo puppy.
 ——————————-—
 1st August, 2023.
