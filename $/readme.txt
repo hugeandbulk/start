@@ -4,4 +4,4 @@ ePay | Hire | Sequømics | Infinity
 ——————————-—
 Product      Company
 
-It looks per the name.
+It's looks as per the name.
