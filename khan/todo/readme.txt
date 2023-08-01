@@ -32,8 +32,8 @@
 
 )):
 ———
-Domain
-Hosting
+Domain, zareenkhan.net/zareenkhan.org
+Hosting, https://www.godaddy.com/
 email
 server
 php
