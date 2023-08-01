@@ -6,12 +6,12 @@ We both are agreed to work on...
  - 2.0 — HairY & Co. × (¶)
  - 3.0 — ePay (¶)
  - 4.0 — Hire (¶)
- - 5.0 — Sequømics, Inc.
- - 6.0 — Infinity, Inc. (∞, Inc.) 
+ - 5.0 — Sequømics, Inc. (¶)
+ - 6.0 — Infinity, Inc. (∞, Inc.) (¶)
 
 Yeah, 14th July, 2023.
 
- - ## Price & Buy (PB & Co.)
+ - ## Price & Buy (PB & Co.) (¶)
 
 Yeah, 28th July, 2023.
 
