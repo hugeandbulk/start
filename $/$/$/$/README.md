@@ -6,4 +6,4 @@ Phone : 6 ₹
 
 Zareen : 3 ₹
 
-git / github.com : 35 lakh 8 ₹
+git / github.com : 41.9 lakh ₹
