@@ -14,5 +14,14 @@ It's works as per the name.
 Ooo
 a software for kids.
 // a ooo puppy.
+- daily activity logging
+- checklists
+- day preparations
+- school
+- home
+- parents
+- kids, students
+- friends
+- messages
 ——————————-—
 1st August, 2023.
