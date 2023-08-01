@@ -17,6 +17,7 @@ a software for kids.
 - daily activity logging
 - checklists
 - day preparations
+- health and diet
 - school
 - home
 - parents
