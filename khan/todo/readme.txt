@@ -32,6 +32,14 @@
 
 )):
 ———
+Domain
+Hosting
+email
+server
+php
+———
+psd
+———
 Diagram Software, draw.io
 
 As on 30th July, 2023
