@@ -18,4 +18,6 @@ a software for kids.
 - messages
 —-— daily, weekly, monthly and yearly records.))
 ——————————-—
+📱: iOS application
+——————————-—
 1st August, 2023.
