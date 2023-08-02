@@ -52,4 +52,8 @@ Markup (the amount added to the cost price of goods to cover overheads and profi
 
 एक पेटेंट एक नए, अद्वितीय और उपयोगी आविष्कार, खोज या प्रक्रिया के निर्माता(ओं) को संपत्ति का अधिकार प्रदान करता है। पेटेंट तीन प्रकार के होते हैं: उपयोगिता, डिज़ाइन और संयंत्र। कॉपीराइट बौद्धिक संपदा का एक रूप है जो लेखकत्व के मूल कार्यों की रक्षा करता है जो एक मूर्त माध्यम में तय होते हैं।
 
+Chat Generative Pre-trained Transformer
+
+What Does ChatGPT Mean? ChatGPT (Chat Generative Pre-trained Transformer) is a complex machine learning model that is able to carry out natural language generation (NLG) tasks with such a high level of accuracy that the model can pass a Turing Test.
+
 ॐ ) श्राप ( ॐ
