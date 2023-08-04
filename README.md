@@ -27,7 +27,7 @@ Yeah, 28th July, 2023.
 § Both are investors, in all companies. Update soon and thanks.
 
 ### PATH:
-    Huge & Bulk / ePay / Hire / Sequømics
+    Huge & Bulk / ePay / Hire / rumor / Sequømics
 
 § investments as on, 2023
 - seed stage : 601 ₹
