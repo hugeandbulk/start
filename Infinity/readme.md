@@ -3,4 +3,5 @@
 All framework name is Infinity, (∞).
 
 Product :
-- Parrot, eis solution.
+- **parrot**, eis solution.
+- **stack**, everyday work (wbs) solution.
