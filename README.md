@@ -1,6 +1,25 @@
 # Start ($) । ॐ
 We both are agreed to work on...
 
+---------------------
+
+$ Projects :
+
+- huge and bulk
+- ePay
+- hire
+- rumor
+- sequomics
+- infinity
+
+---------------------
+
+
+
+
+
+
+
  - 💯 0.0 — Let's start with the budget and flow, which is decided (by both of us).
  - 1.0 — In Patna Jurisdiction, Huge & Bulk. (¶) (¶)
  - 2.0 — HairY & Co. × (¶)
