@@ -12,7 +12,10 @@ $ Projects :
 - sequomics ¬
 - Infinity ¬
 
+git — :octacat:
+
 ---------------------
+
 
 
 
