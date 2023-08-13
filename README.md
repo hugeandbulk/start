@@ -5,12 +5,12 @@ We both are agreed to work on...
 
 $ Projects :
 
-- huge and bulk
-- ePay
-- hire
-- rumor
-- sequomics
-- infinity
+- huge and bulk ¬
+- ePay ¬
+- hire ¬
+- rumor ¬
+- sequomics ¬
+- Infinity ¬
 
 ---------------------
 
