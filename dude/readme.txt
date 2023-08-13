@@ -4,6 +4,7 @@
   hire
   Huge & Bulk
   HairY
+  Rumor
   —————
   HTML 5.1
   CSS 3.0
