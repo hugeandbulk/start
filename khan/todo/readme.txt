@@ -20,7 +20,7 @@
   —————
   Sublime, https://www.sublimetext.com/
 —-————————-—
-— SCSS framework — {bold}, named.
+— SCSS framework — {giggle}, named.
 — javascript — AMD
 — build system, (gulp is a build tool in JavaScript built on node streams)
 — git/github
