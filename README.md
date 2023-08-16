@@ -3,6 +3,8 @@ We both are agreed to work on...
 
 ---------------------
 
+**For Indians, there are charges.**
+
 $ Projects :
 
 - ePay ¬
