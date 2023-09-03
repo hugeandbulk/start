@@ -5,7 +5,12 @@ Web Presence | budgeted |
 ## index.html ¦¦ graph ¦¦
 — hello
 — about
-— art
+— art (canvas)
+
+— imprint
+— colophon
+
+
 — creativity
 — work
 — working
@@ -29,7 +34,7 @@ Web Presence | budgeted |
 — bye (signature)
 _________________
 made, in India
-— by my hubby (*).
+— handcrafted (*).
 -----------------
 
 _____________==__
