@@ -37,6 +37,7 @@ made, in India
 — handcrafted (*).
 -----------------
 
+RAL 9011 - Graphite Black color belongs to the Black color family (hue). The hexadecimal color code (color number) for RAL 9011 - Graphite Black is #27292B, and the RGB color code is RGB(39, 41, 43). In the RGB color model, RAL 9011 - Graphite Black has a red value of 39, a green value of 41, and a blue value of 43.
 _____________==__
 #
 Functions:
